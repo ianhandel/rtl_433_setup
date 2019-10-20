@@ -1,3 +1,5 @@
+#Set up SoapySDR fro SDRPlay and rtl_433 on Mac OSX
+
 From...
 
 https://www.sdrplay.com/mac-soapy-source/
